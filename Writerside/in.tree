@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="in"
+                 name="Instance Name"
+                 start-page="前言.md">
+
+    <toc-element topic="结果记录表.md"/>
+    <toc-element topic="前言.md">
+        <toc-element topic="临床检验.md">
+        </toc-element>
+        <toc-element topic="关于检验的思考.md"/>
+    </toc-element>
+    <toc-element topic="临床分子生物检验.md">
+        <toc-element topic="GLP指南.md"/>
+        <toc-element topic="临床分子检验实验室设计参考标准.md"/>
+        <toc-element topic="分子组排班.md"/>
+        <toc-element topic="检测方法和报告发布.md">
+            <toc-element topic="项目一览表.md">
+                <toc-element topic="无创筛查实验.md"/>
+                <toc-element topic="人乳头瘤病毒基因分型检测.md">
+                    <toc-element topic="人乳头瘤病毒结果记录表.md"/>
+                </toc-element>
+                <toc-element topic="性传播疾病病原体三项核酸检测.md">
+                    <toc-element topic="性传播疾病病原体三项核酸检测结果记录表.md"/>
+                </toc-element>
+                <toc-element topic="结核分枝杆菌复合群核酸检测.md">
+                    <toc-element topic="结核分枝杆菌复合群核酸检测结果记录表.md"/>
+                </toc-element>
+                <toc-element topic="单纯疱疹病毒2型核酸检测.md"/>
+                <toc-element topic="真菌三项核酸检测.md">
+                    <toc-element topic="真菌结果记录表.md"/>
+                </toc-element>
+                <toc-element topic="新型冠状病毒核酸检测.md"/>
+                <toc-element topic="血液感染性疾病筛查.md">
+                    <toc-element topic="血源性病原体三项核酸检测结果记录表.md"/>
+                </toc-element>
+                <toc-element topic="呼吸道病原体核酸六项检测.md">
+                    <toc-element topic="新型冠状病毒结果记录表.md"/>
+                    <toc-element topic="百日咳杆菌结果记录表.md"/>
+                    <toc-element topic="呼吸道病原体核酸六项检测结果记录表.md"/>
+                </toc-element>
+                <toc-element topic="呼吸道病原体核酸八项检测.md">
+                    <toc-element topic="呼吸道病原体核酸八项检测结果记录表.md"/>
+                </toc-element>
+                <toc-element topic="乙型肝炎病毒核酸定量检测.md"/>
+                <toc-element topic="丙型肝炎病毒基因分型.md"/>
+                <toc-element topic="巨细胞病毒.md"/>
+            </toc-element>
+            <toc-element topic="扩增体系一览表.md">
+                <toc-element topic="样本信息表.md"/>
+            </toc-element>
+        </toc-element>
+    </toc-element>
+    <toc-element topic="注意事项.md"/>
+    <toc-element topic="异常结果原因排查流程.md"/>
+    <toc-element topic="临床微生物检验.md">
+        <toc-element topic="血培养.md"/>
+    </toc-element>
+    <toc-element topic="夜班.md"/>
+    <toc-element topic="库.md">
+        <toc-element topic="library.md"/>
+    </toc-element>
+</instance-profile>

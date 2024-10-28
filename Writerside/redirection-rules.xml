@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="6a0e82db">
+        <description>Created after removal of "检验前处理" from Instance Name</description>
+        <accepts>检验前处理.html</accepts>
+    </rule>
+    <rule id="92fa652">
+        <description>Created after removal of "各类表格" from Instance Name</description>
+        <accepts>各类表格.html</accepts>
+    </rule>
+    <rule id="63aa2c4">
+        <description>Created after removal of "draft" from Instance Name</description>
+        <accepts>Empty-MD-Topic.html</accepts>
+    </rule>
+    <rule id="388a6014">
+        <description>Created after removal of "常见问题" from Instance Name</description>
+        <accepts>常见问题.html</accepts>
+    </rule>
+    <rule id="ec4382f">
+        <description>Created after removal of "Empty XML Topic" from Instance Name</description>
+        <accepts>Empty-XML-Topic.html</accepts>
+    </rule>
+</rules>

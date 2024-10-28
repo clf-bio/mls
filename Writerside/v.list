@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE vars SYSTEM "https://resources.jetbrains.com/writerside/1.0/vars.dtd">
+<vars>
+    <var name="product" value="Writerside"/>
+    <var name="PCR_tube" value="PCR反应管"/>
+    <var name="eightStripTubes" value="8联管"/>
+    <var name="NC" value="阴性对照"/>
+    <var name="PC" value="阳性对照"/>
+    # 院区
+    <var name="KJ" value="康健院区"/>
+    # 工作组
+    <var name="micro_ZS" value="微生物忠山工作组"/>
+    <var name="micro_KJ" value="微生物康健工作组"/>
+    # 核酸类型
+    <var name="HBV_DNA" value="乙型肝炎病毒DNA"/>
+    <var name="HCV_RNA" value="丙型肝炎病毒RNA"/>
+    <var name="Bordetella pertussis_DNA" value="百日咳杆菌？NA"/>
+    <var name="" value="新冠病毒DNA"/>
+    <var name="" value="曲霉菌属DNA"/>
+    <var name="" value="新生隐球菌DNA"/>
+    <var name="" value="耶氏肺孢子菌DNA"/>
+    <var name="" value="甲型流感病毒"/>
+    <var name="" value="乙型流感病毒DNA"/>
+    <var name="" value="呼吸道合胞病毒DNA"/>
+    <var name="" value="腺病毒DNA"/>
+    <var name="" value="人鼻病毒"/>
+    <var name="" value="肺炎支原体DNA"/>
+    <var name="UU_DNA" value="解脲支原体DNA"/>
+    <var name="NG_DNA" value="淋病奈瑟菌DNA"/>
+    <var name="CT_DNA" value="沙眼衣原体DNA"/>
+    <var name="TB_DNA" value="结核分枝杆菌复合群DNA"/>
+    <var name="HSV2_DNA" value="单纯疱疹病毒II型DNA"/>
+    <var name="HIV_RNA" value="人类免疫缺陷病毒RNA"/>
+    <var name="natch96" value="圣湘Natch 96核酸提取仪"/>
+    # 项目名称
+    <var name="RPP6" value="呼吸道病原体核酸六项检测"/>
+    # respiratory pathogens panel，RPP
+    <var name="RPP8" value="呼吸道病原体核酸八项检测"/>
+    <var name="fungi3" value="真菌核酸三项检测"/>
+    <var name="BID3" value="血源性病原体三项核酸检测"/>
+    # bloodborne infectious diseases，BID
+    <var name="HPV_typing" value="人乳头瘤病毒核酸分型检测"/>
+    <var name="HCV_typing" value="丙型肝炎病毒基因分型检测"/>
+    <var name="qHBV" value="乙型肝炎病毒核酸定量检测"/>
+    <var name="STD3" value="性传播疾病病原体三项核酸检测"/>
+    # sexually transmitted diseases，STD
+    # 仪器
+    <var name="SCP_1000uL" value="单通道微量移液器（100到1000 μL）"/>
+    # SCP，single channel pipette
+    <var name="MCP_100uL" value="多通道微量移液器（100 μL）"/>
+    # MCP，multichannel channel pipette
+    # 试剂
+    <var name="RPP6_kit" value="六项呼吸道病原体核酸检测试剂盒"/>
+    <var name="sansure_nuc_kit" value="核酸提取或纯化试剂"/>
+
+
+    # 软件相关
+    <var name="resultsPath" value="~/Documents/Experiments/Results"/>
+    # 扩增结果路径
+    <var name="fileNaming" value="yyyy-MM-dd_HH-mm"/>
+    <var name="" value=""/>
+    <var name="" value=""/>
+    <var name="" value=""/>
+    <var name="" value=""/>
+    <var name="" value=""/>
+    <var name="" value=""/>
+    <var name="" value=""/>
+</vars>
